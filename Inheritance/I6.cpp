@@ -1,0 +1,8 @@
+/*
+Derived class can directly invoke Base class
+methods
+
+Derived class can override or redefine Base
+class methods
+ 
+*/
